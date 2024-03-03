@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{86fccbfb-ba5c-426d-9a91-3628e7b3197b}">
+		<property name="assetPath">
+			<value>Poubelle.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.34697916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6e37364a-4e78-413a-a88c-ef3c39484e53}</destination>
+		</relationship>
+	</object>
+</objects>
