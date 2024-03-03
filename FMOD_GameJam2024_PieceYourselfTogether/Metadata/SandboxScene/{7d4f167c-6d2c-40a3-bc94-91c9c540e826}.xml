@@ -19,6 +19,8 @@
 			<destination>{2cced810-4f79-4af5-a22f-e432a919644b}</destination>
 			<destination>{6c27756e-83c8-454a-81c6-edc2695755e5}</destination>
 			<destination>{0be71d47-313c-45c5-8154-e102a62b0ba0}</destination>
+			<destination>{d68eb88b-76e1-44f9-a83f-b571bd956a23}</destination>
+			<destination>{04e15c3c-858d-498d-beef-629fa858cffa}</destination>
 		</relationship>
 	</object>
 	<object class="MarkerTrack" id="{fb9fe30c-c24c-45cd-b089-f0b7d41e4f03}" />
@@ -82,6 +84,28 @@
 		</property>
 		<relationship name="event">
 			<destination>{f11a61ca-7804-4e8d-9187-02f66f09b3cf}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxEmitter" id="{d68eb88b-76e1-44f9-a83f-b571bd956a23}">
+		<property name="positionX">
+			<value>0.075000003</value>
+		</property>
+		<property name="positionZ">
+			<value>-0.150000006</value>
+		</property>
+		<relationship name="event">
+			<destination>{2de9b1e5-ac8e-4554-8dab-afe0c79758af}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxEmitter" id="{04e15c3c-858d-498d-beef-629fa858cffa}">
+		<property name="positionX">
+			<value>0.0250000004</value>
+		</property>
+		<property name="positionZ">
+			<value>-0.075000003</value>
+		</property>
+		<relationship name="event">
+			<destination>{c4d4e977-5960-4fab-8d75-cb77728cd5ba}</destination>
 		</relationship>
 	</object>
 </objects>
